@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Can I return a digital product after activation?",
+    "ground_truth": "Digital products are non-refundable once the license key has been activated.",
+    "reference_chunks": [
+      "Refund Policy, Section 4.2 \u2014 Digital Products"
+    ]
+  },
+  {
+    "question": "What is the return window for physical products?",
+    "ground_truth": "Physical products may be returned within 30 days with original packaging.",
+    "reference_chunks": [
+      "Refund Policy, Section 3.1 \u2014 Physical Products"
+    ]
+  },
+  {
+    "question": "How do I contact customer support?",
+    "ground_truth": "You can reach support at support@acmefinancial.com or call 1-800-ACME-SUP.",
+    "reference_chunks": [
+      "Contact Policy, Section 1.1 \u2014 Support Channels"
+    ]
+  }
+]
